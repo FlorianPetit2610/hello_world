@@ -10,4 +10,4 @@ const createIndexFile = () => {
 createIndexFile();
 
 module.exports = createIndexFile;
-//UwU
+//UwUz
